@@ -1,13 +1,14 @@
-body, li{
+body, ul{
     text-align: center;
 }
+
 table{
     margin-left:auto; 
     margin-right:auto;
 
     border-collapse: collapse;
-    border: 1px solid black;
 }
+
 table, th, td{
     border: 1px solid black;
 }
